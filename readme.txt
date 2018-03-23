@@ -21,3 +21,5 @@ fatal: pathspec 'readme.txt' did not match any files
 
 Jacob@kongy MINGW64 /e/gittest/learngit (master)
 $
+
+git status
