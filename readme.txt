@@ -27,3 +27,4 @@ git status
 git branch dev
 git checkout dev 
 Creating a new branch is quick AND simple 解决冲突
+--no-f
