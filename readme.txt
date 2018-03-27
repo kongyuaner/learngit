@@ -23,3 +23,6 @@ Jacob@kongy MINGW64 /e/gittest/learngit (master)
 $
 
 git status
+
+git branch dev
+git checkout dev 
