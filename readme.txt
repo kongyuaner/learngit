@@ -26,5 +26,5 @@ git status
 
 git branch dev
 git checkout dev 
-Creating a new branch is quick AND simple 解决冲突
+Creating a new branch is quick AND simple 解决冲突 bug
 --no-f
